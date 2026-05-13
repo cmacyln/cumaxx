@@ -133,7 +133,7 @@ export function ContactForm() {
       <div className="flex items-start gap-2">
         <Checkbox
           id="dsgvo"
-          {...register('dsgvo')}
+          onCheckedChange={(checked) => setValue('dsgvo', Boolean(checked) as true)}
           className="mt-1"
         />
         <Label htmlFor="dsgvo" className="text-xs leading-relaxed text-foreground/60">
