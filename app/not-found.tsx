@@ -3,6 +3,9 @@ import { Link } from '@/i18n/routing'
 export default function NotFound() {
   return (
     <html lang="de" className="dark">
+      <head>
+        <title>404 – Cumaxx</title>
+      </head>
       <body className="flex min-h-screen flex-col items-center justify-center bg-background text-foreground font-sans antialiased">
         <div className="text-center">
           <h1 className="font-display text-8xl font-bold tracking-[-0.04em]">
