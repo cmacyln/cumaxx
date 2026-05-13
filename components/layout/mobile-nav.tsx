@@ -32,7 +32,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
-          transition={{ duration: 0.3 }}
+          transition={{ duration: 0.15 }}
           className="fixed inset-0 z-40 flex flex-col bg-background px-6 pt-20"
         >
           <nav className="flex flex-col gap-6 mt-8">
