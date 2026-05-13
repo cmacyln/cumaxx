@@ -21,6 +21,9 @@ export function generateMetadata({
     title,
     description,
     metadataBase: new URL(baseUrl),
+    other: {
+      google: 'notranslate',
+    },
     alternates: {
       canonical: `${baseUrl}/${locale}${path}`,
       languages: {

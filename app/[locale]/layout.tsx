@@ -29,7 +29,8 @@ export default async function LocaleLayout({
   return (
     <html
       lang={locale}
-      className={`dark ${inter.variable} ${geistDisplay.variable}`}
+      translate="no"
+      className={`dark ${inter.variable} ${geistDisplay.variable} notranslate`}
       suppressHydrationWarning
     >
       <body className="bg-background text-foreground font-sans antialiased overflow-x-hidden">
