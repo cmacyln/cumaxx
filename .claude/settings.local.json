@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npx --version)",
+      "WebSearch",
+      "Read(//d/Projeler/**)",
+      "Bash(npx create-next-app@latest Cumaxx --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --turbopack)",
+      "Bash(npx create-next-app@latest *)",
+      "Bash(mkdir -p /tmp/cumaxx-scaffold)",
+      "Read(//tmp/**)",
+      "Bash(cp -r /tmp/cumaxx-scaffold/cumaxx-temp/* /d/Projeler/Cumaxx/)",
+      "Bash(cp -r /tmp/cumaxx-scaffold/cumaxx-temp/.* /d/Projeler/Cumaxx/)",
+      "Bash(tar czf *)",
+      "Bash(tar xzf *)",
+      "Bash(npm install *)",
+      "Bash(npx shadcn@canary *)"
+    ]
+  }
+}
