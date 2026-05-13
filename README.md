@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cumaxx Agency Website
+
+**Digitale Produkte, die wirken.** — Studio aus Potsdam für Webentwicklung, E-Commerce & Automatisierung.
+
+## Tech Stack
+
+- **Next.js 16** (App Router, React Server Components, TypeScript)
+- **Tailwind CSS v4** (CSS-first, `@theme` directive)
+- **shadcn/ui** (canary) + custom components
+- **Framer Motion** + **GSAP ScrollTrigger** for animations
+- **Lenis** for smooth scrolling
+- **next-intl** for i18n (de / en / tr)
+- **React Hook Form** + **Zod** for forms
+- **Resend** for email delivery
+- **MDX** for blog content
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
+cp .env.example .env.local
+# Add your RESEND_API_KEY to .env.local
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/de](http://localhost:3000/de).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+app/[locale]/          — Locale pages (de, en, tr)
+components/
+  ui/                  — shadcn/ui primitives
+  layout/              — Header, Footer, LanguageSwitcher, ThemeToggle
+  sections/            — Page sections (Hero, Services, Work, Process, etc.)
+  animations/          — Animation wrappers (Lenis, GSAP, Framer Motion)
+lib/                   — Utilities, validations, fonts, email, SEO
+messages/              — Translation keys (de.json, en.json, tr.json)
+content/blog/          — MDX blog posts per locale
+public/images/         — Static images and grain.svg
+```
 
-## Learn More
+## Build
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Configured for Vercel. Set `RESEND_API_KEY` in environment variables.
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+All rights reserved.

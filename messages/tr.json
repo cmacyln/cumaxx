@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "homeTitle": "Cumaxx – Yeni Nesil Dijital Dönüşüm Ortağınız",
+    "homeDescription": "Potsdam merkezli dijital ajans. Her ölçekten işletme için web tasarım, yapay zeka entegrasyonu, otomasyon ve dijital danışmanlık.",
+    "servicesTitle": "Hizmetler | Cumaxx",
+    "servicesDescription": "Web tasarımından yapay zeka entegrasyonuna – sıra dışı kapsamlı dijital çözümler.",
+    "workTitle": "Seçilmiş İşler | Cumaxx",
+    "workDescription": "Web tasarım, e-ticaret ve otomasyon alanlarındaki projelerimizden bir seçki.",
+    "aboutTitle": "Hakkımızda | Cumaxx",
+    "aboutDescription": "Cumaxx, Potsdam'lı full-stack geliştirici Cuma Ceylan'ın stüdyosudur.",
+    "journalTitle": "Journal | Cumaxx",
+    "journalDescription": "Web geliştirme, yapay zeka, otomasyon ve dijital strateji üzerine yazılar.",
+    "contactTitle": "İletişim | Cumaxx",
+    "contactDescription": "Bir sonraki projenize bizimle başlayın. Bize mesaj gönderin.",
+    "impressumTitle": "Künye | Cumaxx",
+    "datenschutzTitle": "Gizlilik Politikası | Cumaxx",
+    "agbTitle": "Şartlar ve Koşullar | Cumaxx"
+  },
+  "common": {
+    "languageDe": "DE",
+    "languageEn": "EN",
+    "languageTr": "TR",
+    "themeDark": "Koyu",
+    "themeLight": "Açık",
+    "ctaStartProject": "Proje Başlat",
+    "ctaSeeWork": "İşleri Gör",
+    "ctaLearnMore": "Daha Fazla",
+    "allProjects": "Tüm Projeler",
+    "backToHome": "Ana Sayfaya Dön",
+    "menuOpen": "Menüyü Aç",
+    "menuClose": "Menüyü Kapat"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "leistungen": "Hizmetler",
+    "arbeiten": "İşler",
+    "ueberUns": "Hakkımızda",
+    "journal": "Journal",
+    "kontakt": "İletişim"
+  },
+  "home": {
+    "hero": {
+      "kicker": "Potsdam'dan Dijital Ajans",
+      "prefix": "İşe yarayan ",
+      "accentWord": "dijital",
+      "subhead": "Sadece web sitesi yapmıyoruz – işinizi büyütüyoruz. Web tasarım, yapay zeka ve otomasyon tek elden.",
+      "availability": "Q2 2026 müsait",
+      "ctaPrimary": "Proje Başlat",
+      "ctaSecondary": "İşleri Gör"
+    },
+    "trustBar": { "label": "Partnerler & Teknolojiler" },
+    "services": {
+      "title": "Ne Yapıyoruz",
+      "webdesign": { "title": "Web Tasarım & Geliştirme", "description": "Kurumsal web siteleri, e-ticaret platformları, landing page'ler ve SEO odaklı yapılar." },
+      "ki": { "title": "Yapay Zeka Entegrasyonu", "description": "Müşteri hizmetleri sohbet botları, yapay zeka destekli içerik üretimi, akıllı asistanlar ve özel yapay zeka çözümleri." },
+      "automation": { "title": "Otomasyon", "description": "İş akışı otomasyonu, veri yönetimi ve raporlama, CRM entegrasyonları ve tekrarlayan görevler." },
+      "consulting": { "title": "Dijital Danışmanlık", "description": "Dönüşüm stratejileri, teknoloji yol haritası, süreç analizi ve optimizasyonu." },
+      "more": "Tüm Hizmetler"
+    },
+    "work": { "title": "Seçilmiş İşler" },
+    "process": {
+      "title": "Sürecimiz",
+      "step1": { "number": "01", "title": "Keşif", "description": "Gereksinimlerinizi, hedef kitlenizi ve rakiplerinizi analiz ediyoruz. Dijital ürününüz için net bir strateji ortaya çıkıyor." },
+      "step2": { "number": "02", "title": "Strateji", "description": "Teknoloji yığını, bilgi mimarisi ve görsel yönü iş hedeflerinize uygun olarak birlikte belirliyoruz." },
+      "step3": { "number": "03", "title": "Tasarım & Geliştirme", "description": "Tasarım ve geliştirme iteratif olarak ilerler. Sürekli ilerlemeyi görür ve kısa döngülerde geri bildirim verirsiniz." },
+      "step4": { "number": "04", "title": "Lansman & İyileştirme", "description": "Lansmandan sonra performansı ve kullanıcı davranışını ölçüyor, sürekli iyileştirmeler yapıyoruz." }
+    },
+    "about": {
+      "title": "Hakkımızda",
+      "description": "Cumaxx, Potsdam'lı full-stack geliştirici Cuma Ceylan'ın stüdyosudur. Sadece web sitesi yapmıyoruz – işinizi büyütüyoruz. Yıllardır çalışan, ölçeklenen ve gelir getiren sistemler isteyen şirketler için dijital ürünler geliştiriyorum.",
+      "cta": "Daha Fazla Bilgi"
+    },
+    "testimonials": { "title": "Müşterilerimiz Ne Diyor" },
+    "cta": {
+      "headline": "Dijital Dönüşüme Hazır mısınız?",
+      "subhead": "Web tasarımı ile başlayın, yapay zeka ve otomasyon ile büyüyün. İşletmenizi dijital olarak nasıl ileriye taşıyabileceğimizi birlikte keşfedelim.",
+      "button": "Hemen İletişime Geç"
+    }
+  },
+  "services": {
+    "hero": { "title": "Hizmetlerimiz", "subtitle": "Sıra dışı kapsamlı dijital çözümler – hepsi tek elden." },
+    "detail": {
+      "webdesign": { "title": "Web Tasarım & Geliştirme", "description": "Sadece güzel görünmekle kalmayıp aynı zamanda çalışan profesyonel web siteleri. En modern teknolojilerle özel çözümler geliştiriyoruz.", "items": ["Kurumsal Web Siteleri", "E-Ticaret Platformları", "Landing Page'ler", "SEO Odaklı Yapılar", "Duyarlı Tasarım", "Erişilebilirlik (WCAG)"] },
+      "ki": { "title": "Yapay Zeka Entegrasyonu", "description": "Yapay zeka bir moda sözcük değil – işletmenizi daha verimli hale getiren bir araçtır. Gerçek değer yaratan yapay zeka çözümleri entegre ediyoruz.", "items": ["Müşteri Hizmetleri Sohbet Botları", "YZ Destekli İçerik Üretimi", "Akıllı Asistanlar", "Özel YZ Çözümleri", "OpenAI / Claude Entegrasyonu", "Prompt Mühendisliği"] },
+      "automation": { "title": "Otomasyon", "description": "Tekrarlayan görevler zaman ve para kaybıdır. Akıllı otomasyonlarla gerçekten önemli olan şeyler için alan açıyoruz.", "items": ["İş Akışı Otomasyonu", "Veri Yönetimi ve Raporlama", "CRM Entegrasyonları", "n8n ve Make İş Akışları", "E-Posta Otomasyonu", "API Entegrasyonları"] },
+      "consulting": { "title": "Dijital Danışmanlık", "description": "Teknoloji amaca giden bir araçtır. Dijital geleceğiniz için doğru kararları vermenize yardımcı oluyoruz.", "items": ["Dijital Dönüşüm Stratejileri", "Teknoloji Yol Haritası", "Süreç Analizi ve Optimizasyonu", "Araç Seçimi ve Değerlendirme", "Teknik Due Diligence", "Atölye Çalışmaları ve Eğitim"] }
+    },
+    "packages": {
+      "title": "Paketlerimiz",
+      "subtitle": "Her bütçeye uygun ölçeklenebilir çözümler – bireysel girişimciden büyük işletmelere.",
+      "starter": { "name": "Başlangıç", "for": "Bireyler ve Küçük İşletmeler İçin", "features": ["Modern Web Sitesi", "Temel SEO Optimizasyonu", "İletişim Formu Otomasyonu", "3 Ay Teknik Destek"] },
+      "growth": { "name": "Growth", "for": "KOBİ'ler ve Büyüyen Şirketler İçin", "popular": "En Popüler", "features": ["E-Ticaret veya Kurumsal Web Sitesi", "YZ Sohbet Botu Entegrasyonu", "CRM ve E-Posta Otomasyonu", "6 Ay Destek + Danışmanlık"] },
+      "enterprise": { "name": "Enterprise", "for": "Büyük İşletmeler İçin", "features": ["Özel Geliştirme", "Gelişmiş YZ Çözümleri", "Tam Süreç Otomasyonu", "Sürekli Destek + Stratejik Danışmanlık"] }
+    },
+    "cta": "Projenize Hazır mısınız?"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Projenize bizimle başlayın. Bize mesaj gönderin – 24 saat içinde size dönüş yapacağız.",
+    "info": { "title": "Doğrudan Ulaşın", "email": "info@cumaxx.de", "phone": "+49 331 901 43 972", "address": "Drewitzer Str. 50a, 14478 Potsdam" },
+    "form": { "name": "İsim", "email": "E-Posta", "company": "Şirket (opsiyonel)", "budget": "Bütçe", "message": "Mesaj", "dsgvo": "Gizlilik politikasını kabul ediyorum.", "submit": "Mesaj Gönder", "sending": "Gönderiliyor...", "success": "Mesaj gönderildi! 24 saat içinde size dönüş yapacağız.", "error": "Gönderim hatası. Lütfen daha sonra tekrar deneyin." },
+    "briefing": { "title": "Briefing Builder", "step1": "Proje Tipi", "step2": "Bütçe", "step3": "Zaman Çizelgesi", "step4": "Detaylar", "webApp": "Web Uygulaması / SaaS", "shopify": "Shopify Mağazası", "wordpress": "WordPress Web Sitesi", "automation": "Otomasyon / YZ", "other": "Diğer" }
+  },
+  "about": {
+    "hero": { "title": "Cumaxx Hakkında", "subtitle": "Yeni nesil dijital dönüşüm ortağınız." },
+    "story": { "title": "Hikaye", "p1": "Cumaxx, Potsdam'lı full-stack geliştirici Cuma Ceylan'ın stüdyosudur. Tek kişilik bir geliştirme stüdyosu olarak başlayan bu yapı, bugün teknik mükemmellik ve ölçülebilir sonuçlara odaklı bir dijital ajansa dönüştü.", "p2": "Moda sözcüklere inanmıyoruz. Temiz koda, düşünülmüş mimariye ve işletmenizi gerçekten ileriye taşıyan çözümlere inanıyoruz. Her proje basit bir soruyla başlar: Hangi iş problemini çözüyoruz?" },
+    "values": { "title": "Değerlerimiz", "tech": { "title": "Teknik Mükemmellik", "description": "Lighthouse 95+, Core Web Vitals yeşil, temiz kod. Taviz yok." }, "measurable": { "title": "Ölçülebilir Sonuçlar", "description": "Her karar ölçülebilir bir hedefe hizmet eder – dönüşüm, performans, gelir." }, "partnership": { "title": "Uzun Vadeli Ortaklık", "description": "At-gitsin projeler değil, sürekli optimizasyon ve stratejik rehberlik." } },
+    "cta": "Bizi Tanıyın"
+  },
+  "work": { "title": "Seçilmiş İşler", "subtitle": "Web tasarım, e-ticaret ve otomasyon alanlarındaki projelerimizden bir seçki.", "categories": { "all": "Tümü", "webdesign": "Web Tasarım", "ecommerce": "E-Ticaret", "automation": "Otomasyon" } },
+  "footer": {
+    "newsletter": { "title": "Bülten", "placeholder": "E-posta adresiniz", "button": "Abone Ol" },
+    "home": "Ana Sayfa",
+    "navigation": "Navigasyon",
+    "leistungen": "Hizmetler",
+    "arbeiten": "İşler",
+    "ueberUns": "Hakkımızda",
+    "journal": "Journal",
+    "kontakt": "İletişim",
+    "social": "Sosyal",
+    "legal": "Yasal",
+    "impressum": "Künye",
+    "datenschutz": "Gizlilik Politikası",
+    "agb": "Şartlar ve Koşullar",
+    "copyright": "© 2026 Cumaxx. Tüm hakları saklıdır.",
+    "description": "Potsdam merkezli dijital ajans. Yeni nesil dijital dönüşüm ortağınız."
+  }
+}

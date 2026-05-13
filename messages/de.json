@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "homeTitle": "Cumaxx – Ihr Partner für die digitale Transformation der neuen Generation",
+    "homeDescription": "Digitale Agentur aus Potsdam. Webdesign, KI-Integration, Automatisierung & digitale Beratung für Unternehmen jeder Größe.",
+    "servicesTitle": "Leistungen | Cumaxx",
+    "servicesDescription": "Umfassende digitale Lösungen jenseits des Gewohnten – vom Webdesign bis zur KI-Integration.",
+    "workTitle": "Ausgewählte Arbeiten | Cumaxx",
+    "workDescription": "Eine Auswahl unserer Projekte aus den Bereichen Webdesign, E-Commerce und Automatisierung.",
+    "aboutTitle": "Über uns | Cumaxx",
+    "aboutDescription": "Cumaxx ist das Studio von Cuma Ceylan – Full-Stack-Entwickler aus Potsdam.",
+    "journalTitle": "Journal | Cumaxx",
+    "journalDescription": "Artikel über Webentwicklung, KI, Automatisierung und digitale Strategie.",
+    "contactTitle": "Kontakt | Cumaxx",
+    "contactDescription": "Starten Sie Ihr nächstes Projekt mit uns. Schreiben Sie uns eine Nachricht.",
+    "impressumTitle": "Impressum | Cumaxx",
+    "datenschutzTitle": "Datenschutz | Cumaxx",
+    "agbTitle": "AGB | Cumaxx"
+  },
+  "common": {
+    "languageDe": "DE",
+    "languageEn": "EN",
+    "languageTr": "TR",
+    "themeDark": "Dunkel",
+    "themeLight": "Hell",
+    "ctaStartProject": "Projekt starten",
+    "ctaSeeWork": "Arbeiten ansehen",
+    "ctaLearnMore": "Mehr erfahren",
+    "allProjects": "Alle Projekte",
+    "backToHome": "Zurück zur Startseite",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen"
+  },
+  "nav": {
+    "home": "Home",
+    "leistungen": "Leistungen",
+    "arbeiten": "Arbeiten",
+    "ueberUns": "Über uns",
+    "journal": "Journal",
+    "kontakt": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "kicker": "Digitale Agentur aus Potsdam",
+      "prefix": "Digitale Produkte, die ",
+      "accentWord": "wirken",
+      "subhead": "Wir bauen nicht nur Websites – wir lassen Ihr Geschäft wachsen. Webdesign, KI-Integration und Automatisierung aus einer Hand.",
+      "availability": "Q2 2026 verfügbar",
+      "ctaPrimary": "Projekt starten",
+      "ctaSecondary": "Arbeiten ansehen"
+    },
+    "trustBar": {
+      "label": "Partner & Technologien"
+    },
+    "services": {
+      "title": "Was wir machen",
+      "webdesign": {
+        "title": "Webdesign & Entwicklung",
+        "description": "Unternehmenswebsites, E-Commerce-Plattformen, Landing Pages und SEO-optimierte Strukturen."
+      },
+      "ki": {
+        "title": "KI-Integration",
+        "description": "Kundenservice-Chatbots, KI-gestützte Inhaltserstellung, smarte Assistenten und individuelle KI-Lösungen."
+      },
+      "automation": {
+        "title": "Automatisierung",
+        "description": "Workflow-Automatisierung, Datenmanagement & Reporting, CRM-Integrationen und wiederkehrende Aufgaben."
+      },
+      "consulting": {
+        "title": "Digitale Beratung",
+        "description": "Transformationsstrategien, Technologie-Roadmap, Prozessanalyse & Optimierung für Ihr Unternehmen."
+      },
+      "more": "Alle Leistungen"
+    },
+    "work": {
+      "title": "Ausgewählte Arbeiten"
+    },
+    "process": {
+      "title": "Unser Prozess",
+      "step1": {
+        "number": "01",
+        "title": "Discovery",
+        "description": "Wir analysieren Ihre Anforderungen, Zielgruppe und Wettbewerber. Daraus entsteht eine klare Strategie für Ihr digitales Produkt."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Strategie",
+        "description": "Gemeinsam definieren wir Technologie-Stack, Informationsarchitektur und visuelle Richtung – abgestimmt auf Ihre Geschäftsziele."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Design & Build",
+        "description": "Design und Entwicklung laufen iterativ. Sie sehen kontinuierlich Fortschritte und geben Feedback in kurzen Zyklen."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Launch & Iterate",
+        "description": "Nach dem Launch messen wir Performance und Nutzerverhalten und leiten kontinuierliche Verbesserungen ab."
+      }
+    },
+    "about": {
+      "title": "Über uns",
+      "description": "Cumaxx ist das Studio von Cuma Ceylan – Full-Stack-Entwickler aus Potsdam. Wir bauen nicht nur Websites, wir lassen Ihr Geschäft wachsen. Seit Jahren entwickle ich digitale Produkte für Unternehmen, die Systeme wollen, die funktionieren, skalieren und Umsatz machen.",
+      "cta": "Mehr über uns"
+    },
+    "testimonials": {
+      "title": "Was unsere Kunden sagen"
+    },
+    "cta": {
+      "headline": "Bereit für Ihre digitale Transformation?",
+      "subhead": "Starten Sie mit Webdesign, wachsen Sie mit KI und Automatisierung. Lassen Sie uns gemeinsam herausfinden, wie wir Ihr Unternehmen digital voranbringen.",
+      "button": "Jetzt anfragen"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Umfassende digitale Lösungen jenseits des Gewohnten – alles aus einer Hand."
+    },
+    "detail": {
+      "webdesign": {
+        "title": "Webdesign & Entwicklung",
+        "description": "Professionelle Websites, die nicht nur gut aussehen, sondern auch funktionieren. Wir entwickeln maßgeschneiderte Lösungen mit modernsten Technologien.",
+        "items": ["Unternehmenswebsites", "E-Commerce-Plattformen", "Landing Pages", "SEO-optimierte Strukturen", "Responsive Design", "Barrierefreiheit (WCAG)"]
+      },
+      "ki": {
+        "title": "KI-Integration",
+        "description": "Künstliche Intelligenz ist kein Buzzword – sie ist ein Werkzeug, das Ihr Unternehmen effizienter macht. Wir integrieren KI-Lösungen, die echten Mehrwert schaffen.",
+        "items": ["Kundenservice-Chatbots", "KI-gestützte Inhaltserstellung", "Smarte Assistenten", "Individuelle KI-Lösungen", "OpenAI / Claude Integration", "Prompt Engineering"]
+      },
+      "automation": {
+        "title": "Automatisierung",
+        "description": "Wiederkehrende Aufgaben kosten Zeit und Geld. Mit smarten Automatisierungen schaffen wir Freiräume für das, was wirklich zählt.",
+        "items": ["Workflow-Automatisierung", "Datenmanagement & Reporting", "CRM-Integrationen", "n8n & Make Workflows", "E-Mail-Automatisierung", "API-Integrationen"]
+      },
+      "consulting": {
+        "title": "Digitale Beratung",
+        "description": "Technologie ist Mittel zum Zweck. Wir helfen Ihnen, die richtigen Entscheidungen für Ihre digitale Zukunft zu treffen.",
+        "items": ["Digitale Transformationsstrategien", "Technologie-Roadmap", "Prozessanalyse & Optimierung", "Tool-Auswahl & Evaluation", "Technische Due Diligence", "Workshops & Schulungen"]
+      }
+    },
+    "packages": {
+      "title": "Unsere Pakete",
+      "subtitle": "Skalierbare Lösungen für jedes Budget – vom Einzelunternehmer bis zum Großunternehmen.",
+      "starter": {
+        "name": "Starter",
+        "for": "Für Einzelpersonen & Kleinunternehmen",
+        "features": ["Moderne Website", "Grundlegende SEO-Optimierung", "Kontaktformular-Automatisierung", "3 Monate technischer Support"]
+      },
+      "growth": {
+        "name": "Growth",
+        "for": "Für KMU & wachsende Unternehmen",
+        "popular": "Am beliebtesten",
+        "features": ["E-Commerce oder Unternehmenswebsite", "KI-Chatbot Integration", "CRM- und E-Mail-Automatisierung", "6 Monate Support + Beratung"]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "for": "Für Großunternehmen",
+        "features": ["Individuelle Entwicklung", "Erweiterte KI-Lösungen", "Vollständige Prozessautomatisierung", "Kontinuierlicher Support + Strategische Beratung"]
+      }
+    },
+    "cta": "Bereit für Ihr Projekt?"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Starten Sie Ihr Projekt mit uns. Schreiben Sie uns eine Nachricht – wir melden uns innerhalb von 24 Stunden.",
+    "info": {
+      "title": "Direkt erreichen",
+      "email": "info@cumaxx.de",
+      "phone": "+49 331 901 43 972",
+      "address": "Drewitzer Str. 50a, 14478 Potsdam"
+    },
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen (optional)",
+      "budget": "Budget",
+      "message": "Nachricht",
+      "dsgvo": "Ich stimme der Datenschutzerklärung zu.",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht gesendet! Wir melden uns innerhalb von 24 Stunden.",
+      "error": "Fehler beim Senden. Bitte versuchen Sie es später erneut."
+    },
+    "briefing": {
+      "title": "Briefing Builder",
+      "step1": "Projekttyp",
+      "step2": "Budget",
+      "step3": "Zeitplan",
+      "step4": "Details",
+      "webApp": "Web-App / SaaS",
+      "shopify": "Shopify Store",
+      "wordpress": "WordPress Website",
+      "automation": "Automation / AI",
+      "other": "Anderes"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Über Cumaxx",
+      "subtitle": "Ihr Partner für die digitale Transformation der neuen Generation."
+    },
+    "story": {
+      "title": "Die Geschichte",
+      "p1": "Cumaxx ist das Studio von Cuma Ceylan – Full-Stack-Entwickler aus Potsdam. Was als Ein-Mann-Entwicklungsstudio begann, ist heute eine digitale Agentur mit Fokus auf technische Exzellenz und messbare Ergebnisse.",
+      "p2": "Wir glauben nicht an Buzzwords. Wir glauben an sauberen Code, durchdachte Architektur und Lösungen, die Ihr Unternehmen wirklich voranbringen. Jedes Projekt beginnt mit einer einfachen Frage: Welches Geschäftsproblem lösen wir?"
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "tech": {
+        "title": "Technische Exzellenz",
+        "description": "Lighthouse 95+, Core Web Vitals grün, sauberer Code. Keine Kompromisse."
+      },
+      "measurable": {
+        "title": "Messbare Ergebnisse",
+        "description": "Jede Entscheidung dient einem messbaren Ziel – Conversion, Performance, Umsatz."
+      },
+      "partnership": {
+        "title": "Langfristige Partnerschaft",
+        "description": "Keine Abwurfprojekte, sondern laufende Optimierung und strategische Begleitung."
+      }
+    },
+    "cta": "Jetzt kennenlernen"
+  },
+  "work": {
+    "title": "Ausgewählte Arbeiten",
+    "subtitle": "Eine Auswahl unserer Projekte aus den Bereichen Webdesign, E-Commerce und Automatisierung.",
+    "categories": {
+      "all": "Alle",
+      "webdesign": "Webdesign",
+      "ecommerce": "E-Commerce",
+      "automation": "Automatisierung"
+    }
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "Ihre E-Mail-Adresse",
+      "button": "Anmelden"
+    },
+    "home": "Home",
+    "navigation": "Navigation",
+    "leistungen": "Leistungen",
+    "arbeiten": "Arbeiten",
+    "ueberUns": "Über uns",
+    "journal": "Journal",
+    "kontakt": "Kontakt",
+    "social": "Social",
+    "legal": "Rechtliches",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "agb": "AGB",
+    "copyright": "© 2026 Cumaxx. Alle Rechte vorbehalten.",
+    "description": "Digitale Agentur aus Potsdam. Ihr Partner für die digitale Transformation der neuen Generation."
+  }
+}
