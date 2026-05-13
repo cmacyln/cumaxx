@@ -1,15 +1,12 @@
 'use server'
 
-import { Resend } from 'resend'
 import { contactSchema } from '@/lib/validations/contact'
-
-const resend = new Resend(process.env.RESEND_API_KEY)
 
 export async function sendContactEmail(formData: FormData) {
   const raw = Object.fromEntries(formData)
   const parsed = contactSchema.safeParse({
     ...raw,
-    dsgvo: raw.dsgvo === 'on',
+    dsgvo: raw.dsgvo === 'true' || raw.dsgvo === 'on',
   })
 
   if (!parsed.success) {
@@ -19,7 +16,19 @@ export async function sendContactEmail(formData: FormData) {
     }
   }
 
+  const apiKey = process.env.RESEND_API_KEY
+  if (!apiKey) {
+    console.error('RESEND_API_KEY not configured — email not sent:', parsed.data.email)
+    return {
+      success: false as const,
+      errors: { _form: ['Der Service ist derzeit nicht verfügbar. Bitte versuchen Sie es später.'] },
+    }
+  }
+
   try {
+    const { Resend } = await import('resend')
+    const resend = new Resend(apiKey)
+
     await resend.emails.send({
       from: 'Cumaxx <kontakt@cumaxx.de>',
       to: 'info@cumaxx.de',
